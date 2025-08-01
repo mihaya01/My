@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>わたしのねこたち</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>わたしのねこたち</h1>
+    <p>もふもふな毎日へようこそ！</p>
+  </header>
+
+  <main>
+    <section class="cat-profile">
+      <img src="neko1.jpg" alt="キジトラのミケ">
+      <h2>ミケ（キジトラ）</h2>
+      <p>寝るのが大好きな甘えんぼ。お気に入りの毛布の上で一日中ゴロゴロ。</p>
+    </section>
+
+    <section class="cat-profile">
+      <img src="neko2.jpg" alt="茶トラのチャチャ">
+      <h2>チャチャ（茶トラ）</h2>
+      <p>おてんば娘。いたずら好きだけど、人が大好きでいつも寄ってくる。</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 わたしのねこたち</p>
+  </footer>
+</body>
+</html>
